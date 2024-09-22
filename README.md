@@ -4,7 +4,7 @@
 
 ## ⚙️ Demo
 
-You can check out the live version of Daily Do [here](your-demo-link).
+You can check out the live version of Daily Do https://iamharshvardhan27.github.io/DailyDo-ToDoList/
 
 ## ✨ Key Features
 
