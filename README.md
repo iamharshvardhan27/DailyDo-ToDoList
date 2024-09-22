@@ -12,13 +12,13 @@ You can check out the live version of Daily Do https://iamharshvardhan27.github.
   Daily Do is designed to adapt seamlessly to any device, whether you're on a laptop, tablet, or mobile phone. Here are some screenshots demonstrating its responsiveness:
 
   - 🖥️ **Laptop View**:  
-    ![Laptop View](./screenshots/laptop.png)
+    ![Laptop View](./Laptopview.png)
   
   - 📱 **Tablet View**:  
-    ![Tablet View](./screenshots/tablet.png)
+    ![Tablet View](./Tabletview.png)
   
   - 📲 **Mobile View**:  
-    ![Mobile View](./screenshots/mobile.png)
+    ![Mobile View](./Mobileview.png)
 
 - **Eye-Pleasing UI**:  
   The app features a modern and minimalistic design that prioritizes functionality without compromising aesthetics. Its simple layout makes it easy to navigate and use.
